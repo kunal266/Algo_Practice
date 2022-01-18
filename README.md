@@ -1,7 +1,7 @@
 # Algo_Practice
 `Remaining learning
 ```
-Crypto Quant Learning
+Crypto Quant Learning ARIMA Model
 
 NLP with SPACY, RASA, Fast Text
 ```
