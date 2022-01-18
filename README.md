@@ -3,4 +3,5 @@
 ```
 Crypto Quant Learning
 
-NLP with SPACY, RASA, Fast Text ```
+NLP with SPACY, RASA, Fast Text
+```
