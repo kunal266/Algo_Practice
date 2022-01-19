@@ -5,7 +5,7 @@ const mongoose=require('mongoose');
 const cors = require('cors');
 const app = express();
 app.use(cors());
-const mongourl = 'mongodb+srv://supa:supa@cluster0.fqzv9.mongodb.net/myFirstDatabase?retryWrites=true&w=majority'
+const mongourl = '<mongodb_url>'
 mongoose.connect(mongourl);
 mongoose.connection.once('open',()=>{
     console.log("connected to database")
