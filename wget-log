@@ -1,0 +1,6 @@
+--2022-01-20 04:45:01--  https://att-c.udemycdn.com/2019-04-22_21-05-31-1f872c16d682f0dcc22be60119595b5a/original.zip?response-content-disposition=attachment%3B+filename%3DUDEMY_TSA_FINAL.zip
+Resolving att-c.udemycdn.com (att-c.udemycdn.com)... 99.86.38.37, 99.86.38.25, 99.86.38.41, ...
+Connecting to att-c.udemycdn.com (att-c.udemycdn.com)|99.86.38.37|:443... connected.
+HTTP request sent, awaiting response... 403 Forbidden
+2022-01-20 04:45:01 ERROR 403: Forbidden.
+
